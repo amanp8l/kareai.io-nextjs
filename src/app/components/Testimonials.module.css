@@ -1,0 +1,76 @@
+/* components/Testimonials.module.css */
+
+.testimonials {
+  text-align: center;
+  padding: 20px;
+  background-color: var(--dark-500);
+  color: var(--light-300);
+  border-radius: 16px;
+  margin: 20px auto;
+  max-width: fit-content;
+  max-height: 720px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.testimonial {
+  opacity: 0;
+  transition: opacity 1s ease-in-out;
+  max-width: 100%;
+  margin: 0 auto;
+}
+
+.testimonial.show {
+  opacity: 1;
+}
+
+.quote {
+  font-size: 18px;
+  line-height: 1.6;
+  margin-bottom: 10px;
+}
+
+.author {
+  font-size: 14px;
+  font-style: italic;
+  color: var(--light-600);
+}
+
+.controls {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  margin-top: 20px;
+}
+
+.button {
+  padding: 10px 20px;
+  background-color: var(--lavender);
+  border: none;
+  border-radius: 16px;
+  color: var(--light);
+  cursor: pointer;
+  font-size: 16px;
+  transition: background-color 0.3s ease;
+}
+
+.button:hover {
+  background-color: var(--pink);
+}
+
+@media (max-width: 768px) {
+  .quote {
+    font-size: 16px;
+  }
+
+  .author {
+    font-size: 12px;
+  }
+
+  .button {
+    padding: 8px 16px;
+    font-size: 14px;
+  }
+}
