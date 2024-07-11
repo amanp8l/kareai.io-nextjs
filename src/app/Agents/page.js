@@ -68,7 +68,11 @@ export default function Agents() {
           </div>
         </div>
       </div>
+      
+
+      <p className='text-center' style={{margin:'5%', fontSize:'2rem'}}>+100 more Agents to explore</p>
       <div className="mtb-192">
+
         <Brand />
       </div>
       <Newsletter />

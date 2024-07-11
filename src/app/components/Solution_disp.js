@@ -28,7 +28,7 @@ export default function Solution_disp() {
                   <h3>Seamless Integrations</h3>
                   <p>
                     Effortlessly connect tools, databases, or import files.
-                    Assistify ensures compatibility with various platforms and
+                    Kare AI ensures compatibility with various platforms and
                     file formats for a seamless experience.
                   </p>
                    <Link href="https://dashboard.kareai.io/login" className="btn btn-secondary">

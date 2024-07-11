@@ -973,6 +973,18 @@ footer p {
   color: var(--lavender);
 }
 
+.input-section {
+  margin-top: 20px;
+}
+
+.kare-ai-message {
+  margin-top: 10px;
+  padding: 10px;
+  background-color: #f9f9f9;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+}
+
 /* ======================================
  *  14. Responsive
 /* ====================================== */

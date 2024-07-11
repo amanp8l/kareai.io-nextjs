@@ -72,9 +72,13 @@ export default function Price() {
               </h4>
               <p>Pause or cancel anytime</p>
               <div className="pricing-button">
-                <button>Start Free Trial</button>
-                <button>Subscribe</button>
-              </div>
+  <a href="https://dashboard.kareai.io/login" style={{ textDecoration: 'none'}}>
+    <button style={{ color: 'white', width:'300px', backgroundColor: 'blue', border: 'none', padding: '10px 20px', borderRadius: '5px' }}>
+      Start Free Trial
+    </button>
+  </a>
+</div>
+
               <ul>
                 <li>
                   <Image src="/img/check.svg" alt="check" width={24} height={24} />
@@ -123,9 +127,12 @@ export default function Price() {
                 
                
               <div className="pricing-button">
-                <button>Contact Us</button>
-                
-              </div>
+  <a href="https://dashboard.kareai.io/login" style={{ textDecoration: 'none'}}>
+    <button style={{ color: 'white', width:'300px', backgroundColor: 'blue', border: 'none', padding: '10px 20px', borderRadius: '5px' }}>
+     Contact Us
+    </button>
+  </a>
+</div>
               <ul>
                 <li>
                   <Image src="/img/check.svg" alt="check" width={24} height={24} />
@@ -180,9 +187,12 @@ export default function Price() {
               <p>Gen AI Marketplace for Developers</p>
               
               <div className="pricing-button">
-                
-                <button>Coming Soon</button>
-              </div>
+  <a href="https://dashboard.kareai.io/login" style={{ textDecoration: 'none'}}>
+    <button style={{ color: 'white', width:'300px', backgroundColor: 'blue', border: 'none', padding: '10px 20px', borderRadius: '5px' }}>
+      Coming Soon
+    </button>
+  </a>
+</div>
               <ul>
                 <li>
                   <Image src="/img/check.svg" alt="check" width={24} height={24} />
