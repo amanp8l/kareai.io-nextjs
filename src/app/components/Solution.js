@@ -12,18 +12,18 @@ export default function Solution() {
     {
       sender: 'Kare AI',
       message: 'Hey, I found two invoices for MasterCard',
-    },
+    }, 
   ]);
   const [inputMessage1, setInputMessage1] = useState('');
 
   const [messages2, setMessages2] = useState([
     {
       sender: 'User',
-      message: 'Hi Kare AI! We\'re planning a major product launch next quarter, but I\'m concerned about our current marketing strategy. Could you review our marketing plan and provide some insights or recommendations?',
+      message: 'Hi Kare AI! We&apos;re planning a major product launch next quarter, but I&apos;m concerned about our current marketing strategy. Could you review our marketing plan and provide some insights or recommendations?',
     },
     {
       sender: 'Kare AI',
-      message: 'Hey, I can certainly help with that! Please upload your current marketing plan document, and I\'ll analyze it for you.',
+      message: 'Hey, I can certainly help with that! Please upload your current marketing plan document, and I&apos;ll analyze it for you.',
     },
   ]);
   const [inputMessage2, setInputMessage2] = useState('');
@@ -31,7 +31,7 @@ export default function Solution() {
   const [messages3, setMessages3] = useState([
     {
       sender: 'User',
-      message: 'Hello Kare AI, we\'re looking to boost our sales team\'s performance this quarter. Do you have any suggestions on tools or strategies we can implement to achieve this?',
+      message: 'Hello Kare AI, we&apos;re looking to boost our sales team&apos;s performance this quarter. Do you have any suggestions on tools or strategies we can implement to achieve this?',
     },
     {
       sender: 'Kare AI',
@@ -136,7 +136,7 @@ export default function Solution() {
                 <div className="col-md-6 pl-47 mt-30">
                   <h3>Strategic Marketing Solutions</h3>
                   <p>
-                    Drafting a newsletter to announce new products to your customers is a breeze, taking only a few seconds. Plus, feel free to request as many revisions as you'd like!
+                    Drafting a newsletter to announce new products to your customers is a breeze, taking only a few seconds. Plus, feel free to request as many revisions as you&apos;d like!
                   </p>
                   <Link href="https://dashboard.kareai.io/logins" className="btn btn-secondary">
                     Learn more
