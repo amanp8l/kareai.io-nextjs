@@ -71,6 +71,7 @@ export default function Price() {
                   <br />
                   <br />
                   <br />
+                  <br />  
                   </li>
 
 
@@ -82,13 +83,13 @@ export default function Price() {
           </div>
           <div className="col-md-4 ">
             <div className="pricing-item">
-              <h3>Enterprise Gen AI OS</h3>
+              <h3>Enterprise Gen AI OS <Image src="/img/mostpop.svg" className='most-popular' alt="pro" width={62} height={22} padding={40}  /></h3>
               <p className="small" style={{ fontSize: '1em' }}>
                 Perfect for Enterprises
               </p>
               <h4>
                 <span>Coral</span>{' '}
-                <Image src="/img/mostpop.svg" alt="pro" width={92} height={26} padding={40} />
+                
               </h4>
               <div className="pricing-button">
                 <button>Start Trial</button>
@@ -171,6 +172,11 @@ export default function Price() {
                   <br />
                   <br />
                   <br />
+                  <br />
+                  <br />
+                  <br />
+                  <br />
+                  
                 </li>
                 
               </ul>

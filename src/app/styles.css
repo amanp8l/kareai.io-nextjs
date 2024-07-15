@@ -577,8 +577,8 @@ header nav ul li a:hover {
 
 .pricing-button {
   display: grid;
-  gap: 10px;
-  margin-top: 35px;
+  gap: 1rem;
+  margin: 1rem;
 }
 
 .pricing-button button {
@@ -1036,6 +1036,7 @@ footer p {
     cursor: pointer;
     color: var(--light-700);
   }
+  
   .mobile-header span svg {
     height: auto;
     width: 30px;
@@ -1112,6 +1113,9 @@ footer p {
   }
   .hero-brand ul {
     justify-content: center;
+  }
+  .pricing-item h4{
+    font-size: 40px;
   }
 }
 @media screen and (max-width: 430px) {

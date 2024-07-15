@@ -94,23 +94,28 @@ export default function Header() {
             </svg>
           </strong>
           <nav>
-            <ul>
-              <li>
-                <Link href="/">Home</Link>
-              </li>
-              <li>
-                <Link href="/examples">Solutions</Link>
-              </li>
-              <li>
-                <Link href="/integrations">Integrations</Link>
-              </li>
-              <li>
-                <Link href="/pricing">Pricing</Link>
-              </li>
-              <li>
-                <Link href="/contact">Contact</Link>
-              </li>
-            </ul>
+          <ul>
+                  <li>
+                    <Link href="/">Home</Link>
+                  </li>
+                  <li>
+                    <Link href="/examples">Solutions</Link>
+                  </li>
+                  <li>
+                    <Link href="/integrations">Integrations</Link>
+                  </li>
+                  <li>
+                    <Link href="/pricing">Pricing</Link>
+                  </li>
+                  
+                  
+                  <li>
+                    <Link href="/Agents">Agents</Link>
+                  </li>
+                  <li>
+                    <Link href="/contact">Contact</Link>
+                  </li>
+                </ul>
           </nav>
           <Link href="/contact" className="btn btn-secondary">
             Get Started

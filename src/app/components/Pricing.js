@@ -73,7 +73,7 @@ export default function Price() {
               <p>Pause or cancel anytime</p>
               <div className="pricing-button">
   <a href="https://dashboard.kareai.io/login" style={{ textDecoration: 'none'}}>
-    <button style={{ color: 'white', width:'300px', backgroundColor: 'blue', border: 'none', padding: '10px 20px', borderRadius: '5px' }}>
+    <button style={{ color: 'white', width:'fit-content', backgroundColor: 'blue', border: 'none', padding: '10px 20px', borderRadius: '5px' }}>
       Start Free Trial
     </button>
   </a>
@@ -128,7 +128,7 @@ export default function Price() {
                
               <div className="pricing-button">
   <a href="https://dashboard.kareai.io/login" style={{ textDecoration: 'none'}}>
-    <button style={{ color: 'white', width:'300px', backgroundColor: 'blue', border: 'none', padding: '10px 20px', borderRadius: '5px' }}>
+    <button style={{ color: 'white', width:'fit-content', backgroundColor: 'blue', border: 'none', padding: '10px 20px', borderRadius: '5px' }}>
      Contact Us
     </button>
   </a>
@@ -188,7 +188,7 @@ export default function Price() {
               
               <div className="pricing-button">
   <a href="https://dashboard.kareai.io/login" style={{ textDecoration: 'none'}}>
-    <button style={{ color: 'white', width:'300px', backgroundColor: 'blue', border: 'none', padding: '10px 20px', borderRadius: '5px' }}>
+    <button style={{ color: 'white', width:'fit-content', backgroundColor: 'blue', border: 'none', padding: '10px 20px', borderRadius: '5px' }}>
       Coming Soon
     </button>
   </a>
