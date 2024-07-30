@@ -1,0 +1,45 @@
+.heroBrand {
+  position: relative;
+  overflow: hidden;
+  width: 100%;
+  padding: 20px 0;
+  
+}
+  
+  .gradientBackground {
+    align-items: center;  /* Vertical alignment */
+    height: 200px ;/* Ensure it takes the full height of its container */
+    background: linear-gradient(to bottom,
+     #180f28 6%, #2b153f 10%,#463c58 15%, white 25%,white 50%,white 75%,#463c58  85%, #2b153f 90%, #180f28 94%);
+    padding: 20px 0; 
+   position: relative;
+   padding: 20px 0;
+   overflow: hidden; /* Ensure content is contained within gradient background */
+  }
+  
+  .brandsList {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    will-change: transform;
+    transition: transform 0.1s linear;
+    
+    position: relative;
+    white-space: nowrap;
+    padding: 0;
+    margin-top: 30px;
+    
+  }
+  
+  .brandsList li {
+    flex: 0 0 auto;
+    
+      list-style: none;
+    
+    margin-right: 20px; /* Adjust the margin as needed */
+  }
+  
+  .brandsList div {
+    display: inline-block;
+    text-align: center;
+  }
