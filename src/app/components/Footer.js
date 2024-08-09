@@ -54,11 +54,11 @@ export default function Footer() {
                       <Link href="https://www.linkedin.com/company/kare-ai-io/posts/?feedView=all">LinkedIn</Link>
                     </li>
                     <li>
-                      <Link href="#">Github</Link>
+                      <Link href="https://github.com/kareai-io">Github</Link>
                     </li>
-                    <li>
+                    {/* <li>
                       <Link href="#">X</Link>
-                    </li>
+                    </li> */}
                   </ul>
                 </div>
               </div>
@@ -75,10 +75,10 @@ export default function Footer() {
             <div className="col-md-6">
               <ul>
                 <li>
-                  <Link href="/">Terms of Service</Link>
+                  <Link href="/terms-of-service">Terms of Service</Link>
                 </li>
                 <li>
-                  <Link href="/">Privacy Policy</Link>
+                  <Link href="/privacy-policy">Privacy Policy</Link>
                 </li>
               </ul>
             </div>
