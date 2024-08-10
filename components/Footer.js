@@ -54,11 +54,11 @@ export default function Footer() {
                       <Link href="https://www.linkedin.com/company/kare-ai-io/posts/?feedView=all">LinkedIn</Link>
                     </li>
                     <li>
-                      <Link href="https://github.com/kareai-io">Github</Link>
+                      <Link href="#">Github</Link>
                     </li>
-                    {/* <li>
+                    <li>
                       <Link href="#">X</Link>
-                    </li> */}
+                    </li>
                   </ul>
                 </div>
               </div>
