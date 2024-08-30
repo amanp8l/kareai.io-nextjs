@@ -7,8 +7,8 @@ export default function Privacy() {
       <PageHero
         title="Privacy"
         subtitle="Policy"
-        content="Thanks for using Assistify! Our Privacy Policy details how we
-              handle your info. By using Assistify, you agree to these
+        content="Thanks for using Kare ai! Our Privacy Policy details how we
+              handle your info. By using Kare ai, you agree to these
               practices."
       />
 
@@ -89,25 +89,25 @@ export default function Privacy() {
                   <h3>Information We Collect</h3>
                   <p>
                     User-Provided Information: When you create an account on
-                    Assistify, we collect details like your name, email, and
+                    Kare ai, we collect details like your name, email, and
                     other info you provide during registration.
                   </p>
 
                   <p>
                     Chatbot Interactions: We store the conversations you have
-                    with AI chatbots created using Assistify, including text,
+                    with AI chatbots created using Kare ai, including text,
                     images, and media files.
                   </p>
 
                   <p>
-                    Usage Data: Information on how you use Assistify, like the
+                    Usage Data: Information on how you use Kare ai, like the
                     features you interact with, frequency, duration of
                     interactions, and any errors or crashes.
                   </p>
 
                   <p>
                     Device Information: Details about the device you use to
-                    access Assistify, such as device type, operating system,
+                    access Kare ai, such as device type, operating system,
                     browser, and IP address.
                   </p>
 
@@ -116,9 +116,9 @@ export default function Privacy() {
                     We utilize the data you provide to craft and personalize
                     your AI chatbot experience. Analyzing usage data helps
                     enhance the performance, features, and usability of
-                    Assistify. Your email address may be used to send crucial
+                    Kare ai. Your email address may be used to send crucial
                     notifications, updates, and promotional materials related to
-                    Assistify, with the option to opt-out. Aggregated and
+                    Kare ai, with the option to opt-out. Aggregated and
                     anonymized data may be employed for research and analytical
                     purposes.
                   </p>
@@ -128,7 +128,7 @@ export default function Privacy() {
                     We do not sell, rent, or trade your personal information to
                     third parties for marketing purposes. Your information may
                     be shared with service providers and partners assisting us
-                    in operating and maintaining Assistify. These parties are
+                    in operating and maintaining Kare ai. These parties are
                     obligated to protect your information and are prohibited
                     from using it for any other purpose. Disclosure of your
                     information may occur if required by law, legal process, or
@@ -147,19 +147,19 @@ export default function Privacy() {
                   <h3>Your Choices</h3>
                   <p>
                     You can review and update your account information by
-                    logging into your Assistify account. To delete your account
+                    logging into your Kare ai account. To delete your account
                     and associated data, please contact us at
-                    legal@assistify.com. If you wish to opt-out of promotional
+                    info@kareai.io. If you wish to opt-out of promotional
                     communications, follow the unsubscribe instructions in the
                     email.
                   </p>
                   <h3>Children&apos;s Privacy</h3>
                   <p>
-                    Assistify is not intended for use by individuals under the
+                    Kare ai is not intended for use by individuals under the
                     age of 13. We do not knowingly collect personal information
                     from children under 13. If you believe a child has provided
                     us with their information, please contact us at
-                    legal@assistify.com.
+                    info@kareai.io.
                   </p>
                   <h3>Changes to Privacy Policy</h3>
                   <p>
@@ -171,37 +171,37 @@ export default function Privacy() {
                   <p>
                     If you have any questions, concerns, or requests regarding
                     this Privacy Policy or your personal information, please
-                    contact us at legal@assistify.com.
+                    contact us at info@kareai.io.
                   </p>
                   <p>
-                    By using Assistify, you agree to the terms of this Privacy
+                    By using Kare ai, you agree to the terms of this Privacy
                     Policy. If you do not agree with the terms, please do not
-                    use Assistify.
+                    use Kare ai.
                   </p>
                 </div>
                 <div className="tab-pane fade" id="pillTwo" role="tabpanel">
                   <h3>Information We Collect</h3>
                   <p>
                     User-Provided Information: When you create an account on
-                    Assistify, we collect details like your name, email, and
+                    Kare ai, we collect details like your name, email, and
                     other info you provide during registration.
                   </p>
 
                   <p>
                     Chatbot Interactions: We store the conversations you have
-                    with AI chatbots created using Assistify, including text,
+                    with AI chatbots created using Kare ai, including text,
                     images, and media files.
                   </p>
 
                   <p>
-                    Usage Data: Information on how you use Assistify, like the
+                    Usage Data: Information on how you use Kare ai, like the
                     features you interact with, frequency, duration of
                     interactions, and any errors or crashes.
                   </p>
 
                   <p>
                     Device Information: Details about the device you use to
-                    access Assistify, such as device type, operating system,
+                    access Kare ai, such as device type, operating system,
                     browser, and IP address.
                   </p>
 
@@ -210,9 +210,9 @@ export default function Privacy() {
                     We utilize the data you provide to craft and personalize
                     your AI chatbot experience. Analyzing usage data helps
                     enhance the performance, features, and usability of
-                    Assistify. Your email address may be used to send crucial
+                    Kare ai. Your email address may be used to send crucial
                     notifications, updates, and promotional materials related to
-                    Assistify, with the option to opt-out. Aggregated and
+                    Kare ai, with the option to opt-out. Aggregated and
                     anonymized data may be employed for research and analytical
                     purposes.
                   </p>
@@ -222,7 +222,7 @@ export default function Privacy() {
                     We do not sell, rent, or trade your personal information to
                     third parties for marketing purposes. Your information may
                     be shared with service providers and partners assisting us
-                    in operating and maintaining Assistify. These parties are
+                    in operating and maintaining Kare ai. These parties are
                     obligated to protect your information and are prohibited
                     from using it for any other purpose. Disclosure of your
                     information may occur if required by law, legal process, or
@@ -241,19 +241,19 @@ export default function Privacy() {
                   <h3>Your Choices</h3>
                   <p>
                     You can review and update your account information by
-                    logging into your Assistify account. To delete your account
+                    logging into your Kare ai account. To delete your account
                     and associated data, please contact us at
-                    legal@assistify.com. If you wish to opt-out of promotional
+                    info@kareai.io. If you wish to opt-out of promotional
                     communications, follow the unsubscribe instructions in the
                     email.
                   </p>
                   <h3>Children&apos;s Privacy</h3>
                   <p>
-                    Assistify is not intended for use by individuals under the
+                    Kare ai is not intended for use by individuals under the
                     age of 13. We do not knowingly collect personal information
                     from children under 13. If you believe a child has provided
                     us with their information, please contact us at
-                    legal@assistify.com.
+                    info@kareai.io.
                   </p>
                   <h3>Changes to Privacy Policy</h3>
                   <p>
@@ -265,37 +265,37 @@ export default function Privacy() {
                   <p>
                     If you have any questions, concerns, or requests regarding
                     this Privacy Policy or your personal information, please
-                    contact us at legal@assistify.com.
+                    contact us at info@kareai.io.
                   </p>
                   <p>
-                    By using Assistify, you agree to the terms of this Privacy
+                    By using Kare ai, you agree to the terms of this Privacy
                     Policy. If you do not agree with the terms, please do not
-                    use Assistify.
+                    use Kare ai.
                   </p>
                 </div>
                 <div className="tab-pane fade" id="pillThree" role="tabpanel">
                   <h3>Information We Collect</h3>
                   <p>
                     User-Provided Information: When you create an account on
-                    Assistify, we collect details like your name, email, and
+                    Kare ai, we collect details like your name, email, and
                     other info you provide during registration.
                   </p>
 
                   <p>
                     Chatbot Interactions: We store the conversations you have
-                    with AI chatbots created using Assistify, including text,
+                    with AI chatbots created using Kare ai, including text,
                     images, and media files.
                   </p>
 
                   <p>
-                    Usage Data: Information on how you use Assistify, like the
+                    Usage Data: Information on how you use Kare ai, like the
                     features you interact with, frequency, duration of
                     interactions, and any errors or crashes.
                   </p>
 
                   <p>
                     Device Information: Details about the device you use to
-                    access Assistify, such as device type, operating system,
+                    access Kare ai, such as device type, operating system,
                     browser, and IP address.
                   </p>
 
@@ -304,9 +304,9 @@ export default function Privacy() {
                     We utilize the data you provide to craft and personalize
                     your AI chatbot experience. Analyzing usage data helps
                     enhance the performance, features, and usability of
-                    Assistify. Your email address may be used to send crucial
+                    Kare ai. Your email address may be used to send crucial
                     notifications, updates, and promotional materials related to
-                    Assistify, with the option to opt-out. Aggregated and
+                    Kare ai, with the option to opt-out. Aggregated and
                     anonymized data may be employed for research and analytical
                     purposes.
                   </p>
@@ -316,7 +316,7 @@ export default function Privacy() {
                     We do not sell, rent, or trade your personal information to
                     third parties for marketing purposes. Your information may
                     be shared with service providers and partners assisting us
-                    in operating and maintaining Assistify. These parties are
+                    in operating and maintaining Kare ai. These parties are
                     obligated to protect your information and are prohibited
                     from using it for any other purpose. Disclosure of your
                     information may occur if required by law, legal process, or
@@ -335,19 +335,19 @@ export default function Privacy() {
                   <h3>Your Choices</h3>
                   <p>
                     You can review and update your account information by
-                    logging into your Assistify account. To delete your account
+                    logging into your Kare ai account. To delete your account
                     and associated data, please contact us at
-                    legal@assistify.com. If you wish to opt-out of promotional
+                    info@kareai.io. If you wish to opt-out of promotional
                     communications, follow the unsubscribe instructions in the
                     email.
                   </p>
                   <h3>Children&apos;s Privacy</h3>
                   <p>
-                    Assistify is not intended for use by individuals under the
+                    Kare ai is not intended for use by individuals under the
                     age of 13. We do not knowingly collect personal information
                     from children under 13. If you believe a child has provided
                     us with their information, please contact us at
-                    legal@assistify.com.
+                    info@kareai.io.
                   </p>
                   <h3>Changes to Privacy Policy</h3>
                   <p>
@@ -359,37 +359,37 @@ export default function Privacy() {
                   <p>
                     If you have any questions, concerns, or requests regarding
                     this Privacy Policy or your personal information, please
-                    contact us at legal@assistify.com.
+                    contact us at info@kareai.io.
                   </p>
                   <p>
-                    By using Assistify, you agree to the terms of this Privacy
+                    By using Kare ai, you agree to the terms of this Privacy
                     Policy. If you do not agree with the terms, please do not
-                    use Assistify.
+                    use Kare ai.
                   </p>
                 </div>
                 <div className="tab-pane fade" id="pillFour" role="tabpanel">
                   <h3>Information We Collect</h3>
                   <p>
                     User-Provided Information: When you create an account on
-                    Assistify, we collect details like your name, email, and
+                    Kare ai, we collect details like your name, email, and
                     other info you provide during registration.
                   </p>
 
                   <p>
                     Chatbot Interactions: We store the conversations you have
-                    with AI chatbots created using Assistify, including text,
+                    with AI chatbots created using Kare ai, including text,
                     images, and media files.
                   </p>
 
                   <p>
-                    Usage Data: Information on how you use Assistify, like the
+                    Usage Data: Information on how you use Kare ai, like the
                     features you interact with, frequency, duration of
                     interactions, and any errors or crashes.
                   </p>
 
                   <p>
                     Device Information: Details about the device you use to
-                    access Assistify, such as device type, operating system,
+                    access Kare ai, such as device type, operating system,
                     browser, and IP address.
                   </p>
 
@@ -398,9 +398,9 @@ export default function Privacy() {
                     We utilize the data you provide to craft and personalize
                     your AI chatbot experience. Analyzing usage data helps
                     enhance the performance, features, and usability of
-                    Assistify. Your email address may be used to send crucial
+                    Kare ai. Your email address may be used to send crucial
                     notifications, updates, and promotional materials related to
-                    Assistify, with the option to opt-out. Aggregated and
+                    Kare ai, with the option to opt-out. Aggregated and
                     anonymized data may be employed for research and analytical
                     purposes.
                   </p>
@@ -410,7 +410,7 @@ export default function Privacy() {
                     We do not sell, rent, or trade your personal information to
                     third parties for marketing purposes. Your information may
                     be shared with service providers and partners assisting us
-                    in operating and maintaining Assistify. These parties are
+                    in operating and maintaining Kare ai. These parties are
                     obligated to protect your information and are prohibited
                     from using it for any other purpose. Disclosure of your
                     information may occur if required by law, legal process, or
@@ -429,19 +429,19 @@ export default function Privacy() {
                   <h3>Your Choices</h3>
                   <p>
                     You can review and update your account information by
-                    logging into your Assistify account. To delete your account
+                    logging into your Kare ai account. To delete your account
                     and associated data, please contact us at
-                    legal@assistify.com. If you wish to opt-out of promotional
+                    info@kareai.io. If you wish to opt-out of promotional
                     communications, follow the unsubscribe instructions in the
                     email.
                   </p>
                   <h3>Children&apos;s Privacy</h3>
                   <p>
-                    Assistify is not intended for use by individuals under the
+                    Kare ai is not intended for use by individuals under the
                     age of 13. We do not knowingly collect personal information
                     from children under 13. If you believe a child has provided
                     us with their information, please contact us at
-                    legal@assistify.com.
+                    info@kareai.io.
                   </p>
                   <h3>Changes to Privacy Policy</h3>
                   <p>
@@ -453,37 +453,37 @@ export default function Privacy() {
                   <p>
                     If you have any questions, concerns, or requests regarding
                     this Privacy Policy or your personal information, please
-                    contact us at legal@assistify.com.
+                    contact us at info@kareai.io.
                   </p>
                   <p>
-                    By using Assistify, you agree to the terms of this Privacy
+                    By using Kare ai, you agree to the terms of this Privacy
                     Policy. If you do not agree with the terms, please do not
-                    use Assistify.
+                    use Kare ai.
                   </p>
                 </div>
                 <div className="tab-pane fade" id="pillFive" role="tabpanel">
                   <h3>Information We Collect</h3>
                   <p>
                     User-Provided Information: When you create an account on
-                    Assistify, we collect details like your name, email, and
+                    Kare ai, we collect details like your name, email, and
                     other info you provide during registration.
                   </p>
 
                   <p>
                     Chatbot Interactions: We store the conversations you have
-                    with AI chatbots created using Assistify, including text,
+                    with AI chatbots created using Kare ai, including text,
                     images, and media files.
                   </p>
 
                   <p>
-                    Usage Data: Information on how you use Assistify, like the
+                    Usage Data: Information on how you use Kare ai, like the
                     features you interact with, frequency, duration of
                     interactions, and any errors or crashes.
                   </p>
 
                   <p>
                     Device Information: Details about the device you use to
-                    access Assistify, such as device type, operating system,
+                    access Kare ai, such as device type, operating system,
                     browser, and IP address.
                   </p>
 
@@ -492,9 +492,9 @@ export default function Privacy() {
                     We utilize the data you provide to craft and personalize
                     your AI chatbot experience. Analyzing usage data helps
                     enhance the performance, features, and usability of
-                    Assistify. Your email address may be used to send crucial
+                    Kare ai. Your email address may be used to send crucial
                     notifications, updates, and promotional materials related to
-                    Assistify, with the option to opt-out. Aggregated and
+                    Kare ai, with the option to opt-out. Aggregated and
                     anonymized data may be employed for research and analytical
                     purposes.
                   </p>
@@ -504,7 +504,7 @@ export default function Privacy() {
                     We do not sell, rent, or trade your personal information to
                     third parties for marketing purposes. Your information may
                     be shared with service providers and partners assisting us
-                    in operating and maintaining Assistify. These parties are
+                    in operating and maintaining Kare ai. These parties are
                     obligated to protect your information and are prohibited
                     from using it for any other purpose. Disclosure of your
                     information may occur if required by law, legal process, or
@@ -523,19 +523,19 @@ export default function Privacy() {
                   <h3>Your Choices</h3>
                   <p>
                     You can review and update your account information by
-                    logging into your Assistify account. To delete your account
+                    logging into your Kare ai account. To delete your account
                     and associated data, please contact us at
-                    legal@assistify.com. If you wish to opt-out of promotional
+                    info@kareai.io. If you wish to opt-out of promotional
                     communications, follow the unsubscribe instructions in the
                     email.
                   </p>
                   <h3>Children&apos;s Privacy</h3>
                   <p>
-                    Assistify is not intended for use by individuals under the
+                    Kare ai is not intended for use by individuals under the
                     age of 13. We do not knowingly collect personal information
                     from children under 13. If you believe a child has provided
                     us with their information, please contact us at
-                    legal@assistify.com.
+                    info@kareai.io.
                   </p>
                   <h3>Changes to Privacy Policy</h3>
                   <p>
@@ -547,37 +547,37 @@ export default function Privacy() {
                   <p>
                     If you have any questions, concerns, or requests regarding
                     this Privacy Policy or your personal information, please
-                    contact us at legal@assistify.com.
+                    contact us at info@kareai.io.
                   </p>
                   <p>
-                    By using Assistify, you agree to the terms of this Privacy
+                    By using Kare ai, you agree to the terms of this Privacy
                     Policy. If you do not agree with the terms, please do not
-                    use Assistify.
+                    use Kare ai.
                   </p>
                 </div>
                 <div className="tab-pane fade" id="pillSix" role="tabpanel">
                   <h3>Information We Collect</h3>
                   <p>
                     User-Provided Information: When you create an account on
-                    Assistify, we collect details like your name, email, and
+                    Kare ai, we collect details like your name, email, and
                     other info you provide during registration.
                   </p>
 
                   <p>
                     Chatbot Interactions: We store the conversations you have
-                    with AI chatbots created using Assistify, including text,
+                    with AI chatbots created using Kare ai, including text,
                     images, and media files.
                   </p>
 
                   <p>
-                    Usage Data: Information on how you use Assistify, like the
+                    Usage Data: Information on how you use Kare ai, like the
                     features you interact with, frequency, duration of
                     interactions, and any errors or crashes.
                   </p>
 
                   <p>
                     Device Information: Details about the device you use to
-                    access Assistify, such as device type, operating system,
+                    access Kare ai, such as device type, operating system,
                     browser, and IP address.
                   </p>
 
@@ -586,9 +586,9 @@ export default function Privacy() {
                     We utilize the data you provide to craft and personalize
                     your AI chatbot experience. Analyzing usage data helps
                     enhance the performance, features, and usability of
-                    Assistify. Your email address may be used to send crucial
+                    Kare ai. Your email address may be used to send crucial
                     notifications, updates, and promotional materials related to
-                    Assistify, with the option to opt-out. Aggregated and
+                    Kare ai, with the option to opt-out. Aggregated and
                     anonymized data may be employed for research and analytical
                     purposes.
                   </p>
@@ -598,7 +598,7 @@ export default function Privacy() {
                     We do not sell, rent, or trade your personal information to
                     third parties for marketing purposes. Your information may
                     be shared with service providers and partners assisting us
-                    in operating and maintaining Assistify. These parties are
+                    in operating and maintaining Kare ai. These parties are
                     obligated to protect your information and are prohibited
                     from using it for any other purpose. Disclosure of your
                     information may occur if required by law, legal process, or
@@ -617,19 +617,19 @@ export default function Privacy() {
                   <h3>Your Choices</h3>
                   <p>
                     You can review and update your account information by
-                    logging into your Assistify account. To delete your account
+                    logging into your Kare ai account. To delete your account
                     and associated data, please contact us at
-                    legal@assistify.com. If you wish to opt-out of promotional
+                    info@kareai.io. If you wish to opt-out of promotional
                     communications, follow the unsubscribe instructions in the
                     email.
                   </p>
                   <h3>Children&apos;s Privacy</h3>
                   <p>
-                    Assistify is not intended for use by individuals under the
+                    Kare ai is not intended for use by individuals under the
                     age of 13. We do not knowingly collect personal information
                     from children under 13. If you believe a child has provided
                     us with their information, please contact us at
-                    legal@assistify.com.
+                    info@kareai.io.
                   </p>
                   <h3>Changes to Privacy Policy</h3>
                   <p>
@@ -641,37 +641,37 @@ export default function Privacy() {
                   <p>
                     If you have any questions, concerns, or requests regarding
                     this Privacy Policy or your personal information, please
-                    contact us at legal@assistify.com.
+                    contact us at info@kareai.io.
                   </p>
                   <p>
-                    By using Assistify, you agree to the terms of this Privacy
+                    By using Kare ai, you agree to the terms of this Privacy
                     Policy. If you do not agree with the terms, please do not
-                    use Assistify.
+                    use Kare ai.
                   </p>
                 </div>
                 <div className="tab-pane fade" id="pillSeven" role="tabpanel">
                   <h3>Information We Collect</h3>
                   <p>
                     User-Provided Information: When you create an account on
-                    Assistify, we collect details like your name, email, and
+                    Kare ai, we collect details like your name, email, and
                     other info you provide during registration.
                   </p>
 
                   <p>
                     Chatbot Interactions: We store the conversations you have
-                    with AI chatbots created using Assistify, including text,
+                    with AI chatbots created using Kare ai, including text,
                     images, and media files.
                   </p>
 
                   <p>
-                    Usage Data: Information on how you use Assistify, like the
+                    Usage Data: Information on how you use Kare ai, like the
                     features you interact with, frequency, duration of
                     interactions, and any errors or crashes.
                   </p>
 
                   <p>
                     Device Information: Details about the device you use to
-                    access Assistify, such as device type, operating system,
+                    access Kare ai, such as device type, operating system,
                     browser, and IP address.
                   </p>
 
@@ -680,9 +680,9 @@ export default function Privacy() {
                     We utilize the data you provide to craft and personalize
                     your AI chatbot experience. Analyzing usage data helps
                     enhance the performance, features, and usability of
-                    Assistify. Your email address may be used to send crucial
+                    Kare ai. Your email address may be used to send crucial
                     notifications, updates, and promotional materials related to
-                    Assistify, with the option to opt-out. Aggregated and
+                    Kare ai, with the option to opt-out. Aggregated and
                     anonymized data may be employed for research and analytical
                     purposes.
                   </p>
@@ -692,7 +692,7 @@ export default function Privacy() {
                     We do not sell, rent, or trade your personal information to
                     third parties for marketing purposes. Your information may
                     be shared with service providers and partners assisting us
-                    in operating and maintaining Assistify. These parties are
+                    in operating and maintaining Kare ai. These parties are
                     obligated to protect your information and are prohibited
                     from using it for any other purpose. Disclosure of your
                     information may occur if required by law, legal process, or
@@ -711,19 +711,19 @@ export default function Privacy() {
                   <h3>Your Choices</h3>
                   <p>
                     You can review and update your account information by
-                    logging into your Assistify account. To delete your account
+                    logging into your Kare ai account. To delete your account
                     and associated data, please contact us at
-                    legal@assistify.com. If you wish to opt-out of promotional
+                    info@kareai.io. If you wish to opt-out of promotional
                     communications, follow the unsubscribe instructions in the
                     email.
                   </p>
                   <h3>Children&apos;s Privacy</h3>
                   <p>
-                    Assistify is not intended for use by individuals under the
+                    Kare ai is not intended for use by individuals under the
                     age of 13. We do not knowingly collect personal information
                     from children under 13. If you believe a child has provided
                     us with their information, please contact us at
-                    legal@assistify.com.
+                    info@kareai.io.
                   </p>
                   <h3>Changes to Privacy Policy</h3>
                   <p>
@@ -735,37 +735,37 @@ export default function Privacy() {
                   <p>
                     If you have any questions, concerns, or requests regarding
                     this Privacy Policy or your personal information, please
-                    contact us at legal@assistify.com.
+                    contact us at info@kareai.io.
                   </p>
                   <p>
-                    By using Assistify, you agree to the terms of this Privacy
+                    By using Kare ai, you agree to the terms of this Privacy
                     Policy. If you do not agree with the terms, please do not
-                    use Assistify.
+                    use Kare ai.
                   </p>
                 </div>
                 <div className="tab-pane fade" id="pillEight" role="tabpanel">
                   <h3>Information We Collect</h3>
                   <p>
                     User-Provided Information: When you create an account on
-                    Assistify, we collect details like your name, email, and
+                    Kare ai, we collect details like your name, email, and
                     other info you provide during registration.
                   </p>
 
                   <p>
                     Chatbot Interactions: We store the conversations you have
-                    with AI chatbots created using Assistify, including text,
+                    with AI chatbots created using Kare ai, including text,
                     images, and media files.
                   </p>
 
                   <p>
-                    Usage Data: Information on how you use Assistify, like the
+                    Usage Data: Information on how you use Kare ai, like the
                     features you interact with, frequency, duration of
                     interactions, and any errors or crashes.
                   </p>
 
                   <p>
                     Device Information: Details about the device you use to
-                    access Assistify, such as device type, operating system,
+                    access Kare ai, such as device type, operating system,
                     browser, and IP address.
                   </p>
 
@@ -774,9 +774,9 @@ export default function Privacy() {
                     We utilize the data you provide to craft and personalize
                     your AI chatbot experience. Analyzing usage data helps
                     enhance the performance, features, and usability of
-                    Assistify. Your email address may be used to send crucial
+                    Kare ai. Your email address may be used to send crucial
                     notifications, updates, and promotional materials related to
-                    Assistify, with the option to opt-out. Aggregated and
+                    Kare ai, with the option to opt-out. Aggregated and
                     anonymized data may be employed for research and analytical
                     purposes.
                   </p>
@@ -786,7 +786,7 @@ export default function Privacy() {
                     We do not sell, rent, or trade your personal information to
                     third parties for marketing purposes. Your information may
                     be shared with service providers and partners assisting us
-                    in operating and maintaining Assistify. These parties are
+                    in operating and maintaining Kare ai. These parties are
                     obligated to protect your information and are prohibited
                     from using it for any other purpose. Disclosure of your
                     information may occur if required by law, legal process, or
@@ -805,19 +805,19 @@ export default function Privacy() {
                   <h3>Your Choices</h3>
                   <p>
                     You can review and update your account information by
-                    logging into your Assistify account. To delete your account
+                    logging into your Kare ai account. To delete your account
                     and associated data, please contact us at
-                    legal@assistify.com. If you wish to opt-out of promotional
+                    info@kareai.io. If you wish to opt-out of promotional
                     communications, follow the unsubscribe instructions in the
                     email.
                   </p>
                   <h3>Children&apos;s Privacy</h3>
                   <p>
-                    Assistify is not intended for use by individuals under the
+                    Kare ai is not intended for use by individuals under the
                     age of 13. We do not knowingly collect personal information
                     from children under 13. If you believe a child has provided
                     us with their information, please contact us at
-                    legal@assistify.com.
+                    info@kareai.io.
                   </p>
                   <h3>Changes to Privacy Policy</h3>
                   <p>
@@ -829,12 +829,12 @@ export default function Privacy() {
                   <p>
                     If you have any questions, concerns, or requests regarding
                     this Privacy Policy or your personal information, please
-                    contact us at legal@assistify.com.
+                    contact us at info@kareai.io.
                   </p>
                   <p>
-                    By using Assistify, you agree to the terms of this Privacy
+                    By using Kare ai, you agree to the terms of this Privacy
                     Policy. If you do not agree with the terms, please do not
-                    use Assistify.
+                    use Kare ai.
                   </p>
                 </div>
               </div>

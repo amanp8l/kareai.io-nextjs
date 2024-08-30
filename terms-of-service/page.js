@@ -57,7 +57,7 @@ export default function Terms() {
                   <h3>Welcome to Kare AI</h3>
                   <p>
                     This Kare AI Services Agreement (“Agreement”) is a legal
-                    agreement between Kare AI Inc. (“Assistify”, “us”, or
+                    agreement between Kare AI Inc. (“Kare ai”, “us”, or
                     “we”) and the entity or person (“you”, “your”, or “user”)
                     who registered on the Kare AI signup page to utilize our
                     hiring services, assessment services, and other business
@@ -201,7 +201,7 @@ export default function Terms() {
                   <h3>Welcome to Kare AI</h3>
                   <p>
                     This Kare AI Services Agreement (“Agreement”) is a legal
-                    agreement between Kare AI Inc. (“Assistify”, “us”, or
+                    agreement between Kare AI Inc. (“Kare ai”, “us”, or
                     “we”) and the entity or person (“you”, “your”, or “user”)
                     who registered on the Kare AI signup page to utilize our
                     hiring services, assessment services, and other business
@@ -345,7 +345,7 @@ export default function Terms() {
                   <h3>Welcome to Kare AI</h3>
                   <p>
                     This Kare AI Services Agreement (“Agreement”) is a legal
-                    agreement between Kare AI Inc. (“Assistify”, “us”, or
+                    agreement between Kare AI Inc. (“Kare ai”, “us”, or
                     “we”) and the entity or person (“you”, “your”, or “user”)
                     who registered on the Kare AI signup page to utilize our
                     hiring services, assessment services, and other business
@@ -489,7 +489,7 @@ export default function Terms() {
                   <h3>Welcome to Kare AI</h3>
                   <p>
                     This Kare AI Services Agreement (“Agreement”) is a legal
-                    agreement between Kare AI Inc. (“Assistify”, “us”, or
+                    agreement between Kare AI Inc. (“Kare ai”, “us”, or
                     “we”) and the entity or person (“you”, “your”, or “user”)
                     who registered on the Kare AI signup page to utilize our
                     hiring services, assessment services, and other business

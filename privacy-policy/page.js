@@ -149,7 +149,7 @@ export default function Privacy() {
                     You can review and update your account information by
                     logging into your Kare AI account. To delete your account
                     and associated data, please contact us at
-                    legal@assistify.com. If you wish to opt-out of promotional
+                    info@kareai.io. If you wish to opt-out of promotional
                     communications, follow the unsubscribe instructions in the
                     email.
                   </p>
@@ -159,7 +159,7 @@ export default function Privacy() {
                     age of 13. We do not knowingly collect personal information
                     from children under 13. If you believe a child has provided
                     us with their information, please contact us at
-                    legal@assistify.com.
+                    info@kareai.io.
                   </p>
                   <h3>Changes to Privacy Policy</h3>
                   <p>
@@ -171,7 +171,7 @@ export default function Privacy() {
                   <p>
                     If you have any questions, concerns, or requests regarding
                     this Privacy Policy or your personal information, please
-                    contact us at legal@assistify.com.
+                    contact us at info@kareai.io.
                   </p>
                   <p>
                     By using Kare AI, you agree to the terms of this Privacy
@@ -243,7 +243,7 @@ export default function Privacy() {
                     You can review and update your account information by
                     logging into your Kare AI account. To delete your account
                     and associated data, please contact us at
-                    legal@assistify.com. If you wish to opt-out of promotional
+                    info@kareai.io. If you wish to opt-out of promotional
                     communications, follow the unsubscribe instructions in the
                     email.
                   </p>
@@ -253,7 +253,7 @@ export default function Privacy() {
                     age of 13. We do not knowingly collect personal information
                     from children under 13. If you believe a child has provided
                     us with their information, please contact us at
-                    legal@assistify.com.
+                    info@kareai.io.
                   </p>
                   <h3>Changes to Privacy Policy</h3>
                   <p>
@@ -265,7 +265,7 @@ export default function Privacy() {
                   <p>
                     If you have any questions, concerns, or requests regarding
                     this Privacy Policy or your personal information, please
-                    contact us at legal@assistify.com.
+                    contact us at info@kareai.io.
                   </p>
                   <p>
                     By using Kare AI, you agree to the terms of this Privacy
@@ -337,7 +337,7 @@ export default function Privacy() {
                     You can review and update your account information by
                     logging into your Kare AI account. To delete your account
                     and associated data, please contact us at
-                    legal@assistify.com. If you wish to opt-out of promotional
+                    info@kareai.io. If you wish to opt-out of promotional
                     communications, follow the unsubscribe instructions in the
                     email.
                   </p>
@@ -347,7 +347,7 @@ export default function Privacy() {
                     age of 13. We do not knowingly collect personal information
                     from children under 13. If you believe a child has provided
                     us with their information, please contact us at
-                    legal@assistify.com.
+                    info@kareai.io.
                   </p>
                   <h3>Changes to Privacy Policy</h3>
                   <p>
@@ -359,7 +359,7 @@ export default function Privacy() {
                   <p>
                     If you have any questions, concerns, or requests regarding
                     this Privacy Policy or your personal information, please
-                    contact us at legal@assistify.com.
+                    contact us at info@kareai.io.
                   </p>
                   <p>
                     By using Kare AI, you agree to the terms of this Privacy
@@ -431,7 +431,7 @@ export default function Privacy() {
                     You can review and update your account information by
                     logging into your Kare AI account. To delete your account
                     and associated data, please contact us at
-                    legal@assistify.com. If you wish to opt-out of promotional
+                    info@kareai.io. If you wish to opt-out of promotional
                     communications, follow the unsubscribe instructions in the
                     email.
                   </p>
@@ -441,7 +441,7 @@ export default function Privacy() {
                     age of 13. We do not knowingly collect personal information
                     from children under 13. If you believe a child has provided
                     us with their information, please contact us at
-                    legal@assistify.com.
+                    info@kareai.io.
                   </p>
                   <h3>Changes to Privacy Policy</h3>
                   <p>
@@ -453,7 +453,7 @@ export default function Privacy() {
                   <p>
                     If you have any questions, concerns, or requests regarding
                     this Privacy Policy or your personal information, please
-                    contact us at legal@assistify.com.
+                    contact us at info@kareai.io.
                   </p>
                   <p>
                     By using Kare AI, you agree to the terms of this Privacy
@@ -525,7 +525,7 @@ export default function Privacy() {
                     You can review and update your account information by
                     logging into your Kare AI account. To delete your account
                     and associated data, please contact us at
-                    legal@assistify.com. If you wish to opt-out of promotional
+                    info@kareai.io. If you wish to opt-out of promotional
                     communications, follow the unsubscribe instructions in the
                     email.
                   </p>
@@ -535,7 +535,7 @@ export default function Privacy() {
                     age of 13. We do not knowingly collect personal information
                     from children under 13. If you believe a child has provided
                     us with their information, please contact us at
-                    legal@assistify.com.
+                    info@kareai.io.
                   </p>
                   <h3>Changes to Privacy Policy</h3>
                   <p>
@@ -547,7 +547,7 @@ export default function Privacy() {
                   <p>
                     If you have any questions, concerns, or requests regarding
                     this Privacy Policy or your personal information, please
-                    contact us at legal@assistify.com.
+                    contact us at info@kareai.io.
                   </p>
                   <p>
                     By using Kare AI, you agree to the terms of this Privacy
@@ -619,7 +619,7 @@ export default function Privacy() {
                     You can review and update your account information by
                     logging into your Kare AI account. To delete your account
                     and associated data, please contact us at
-                    legal@assistify.com. If you wish to opt-out of promotional
+                    info@kareai.io. If you wish to opt-out of promotional
                     communications, follow the unsubscribe instructions in the
                     email.
                   </p>
@@ -629,7 +629,7 @@ export default function Privacy() {
                     age of 13. We do not knowingly collect personal information
                     from children under 13. If you believe a child has provided
                     us with their information, please contact us at
-                    legal@assistify.com.
+                    info@kareai.io.
                   </p>
                   <h3>Changes to Privacy Policy</h3>
                   <p>
@@ -641,7 +641,7 @@ export default function Privacy() {
                   <p>
                     If you have any questions, concerns, or requests regarding
                     this Privacy Policy or your personal information, please
-                    contact us at legal@assistify.com.
+                    contact us at info@kareai.io.
                   </p>
                   <p>
                     By using Kare AI, you agree to the terms of this Privacy
@@ -713,7 +713,7 @@ export default function Privacy() {
                     You can review and update your account information by
                     logging into your Kare AI account. To delete your account
                     and associated data, please contact us at
-                    legal@assistify.com. If you wish to opt-out of promotional
+                    info@kareai.io. If you wish to opt-out of promotional
                     communications, follow the unsubscribe instructions in the
                     email.
                   </p>
@@ -723,7 +723,7 @@ export default function Privacy() {
                     age of 13. We do not knowingly collect personal information
                     from children under 13. If you believe a child has provided
                     us with their information, please contact us at
-                    legal@assistify.com.
+                    info@kareai.io.
                   </p>
                   <h3>Changes to Privacy Policy</h3>
                   <p>
@@ -735,7 +735,7 @@ export default function Privacy() {
                   <p>
                     If you have any questions, concerns, or requests regarding
                     this Privacy Policy or your personal information, please
-                    contact us at legal@assistify.com.
+                    contact us at info@kareai.io.
                   </p>
                   <p>
                     By using Kare AI, you agree to the terms of this Privacy
@@ -807,7 +807,7 @@ export default function Privacy() {
                     You can review and update your account information by
                     logging into your Kare AI account. To delete your account
                     and associated data, please contact us at
-                    legal@assistify.com. If you wish to opt-out of promotional
+                    info@kareai.io. If you wish to opt-out of promotional
                     communications, follow the unsubscribe instructions in the
                     email.
                   </p>
@@ -817,7 +817,7 @@ export default function Privacy() {
                     age of 13. We do not knowingly collect personal information
                     from children under 13. If you believe a child has provided
                     us with their information, please contact us at
-                    legal@assistify.com.
+                    info@kareai.io.
                   </p>
                   <h3>Changes to Privacy Policy</h3>
                   <p>
@@ -829,7 +829,7 @@ export default function Privacy() {
                   <p>
                     If you have any questions, concerns, or requests regarding
                     this Privacy Policy or your personal information, please
-                    contact us at legal@assistify.com.
+                    contact us at info@kareai.io.
                   </p>
                   <p>
                     By using Kare AI, you agree to the terms of this Privacy

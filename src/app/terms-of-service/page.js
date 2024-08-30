@@ -22,7 +22,7 @@ export default function Terms() {
                   data-bs-toggle="pill"
                   data-bs-target="#pillOne"
                 >
-                  Welcome to Assistify
+                  Welcome to Kare ai
                 </button>
                 <button
                   className="nav-link"
@@ -54,14 +54,14 @@ export default function Terms() {
                   id="pillOne"
                   role="tabpanel"
                 >
-                  <h3>Welcome to Assistify</h3>
+                  <h3>Welcome to Kare ai</h3>
                   <p>
-                    This Assistify Services Agreement (“Agreement”) is a legal
-                    agreement between Assistify Inc. (“Assistify”, “us”, or
+                    This Kare ai Services Agreement (“Agreement”) is a legal
+                    agreement between Kare ai Inc. (“Kare ai”, “us”, or
                     “we”) and the entity or person (“you”, “your”, or “user”)
-                    who registered on the Assistify signup page to utilize our
+                    who registered on the Kare ai signup page to utilize our
                     hiring services, assessment services, and other business
-                    solutions that may be offered by Assistify and its
+                    solutions that may be offered by Kare ai and its
                     affiliated entities (each, a “Service”). This Agreement
                     outlines the terms of service that govern your usage of the
                     Services. If any aspect of this Agreement is unclear to you,
@@ -76,25 +76,25 @@ export default function Terms() {
                   </p>
 
                   <p>
-                    Usage Data: Information on how you use Assistify, like the
+                    Usage Data: Information on how you use Kare ai, like the
                     features you interact with, frequency, duration of
                     interactions, and any errors or crashes.
                   </p>
 
                   <p>
                     Device Information: Details about the device you use to
-                    access Assistify, such as device type, operating system,
+                    access Kare ai, such as device type, operating system,
                     browser, and IP address.
                   </p>
 
                   <h3>Account Terms</h3>
                   <p>
                     In order to access and make use of the Services, you must
-                    complete the registration process for an Assistify account
+                    complete the registration process for an Kare ai account
                     (“Account”). Successful completion of your Account
                     registration mandates the provision of your full legal name,
                     a valid email address, and any other information marked as
-                    mandatory. Assistify reserves the right to decline your
+                    mandatory. Kare ai reserves the right to decline your
                     Account application or terminate an existing Account at our
                     sole discretion, without the obligation to provide a reason.
                   </p>
@@ -103,7 +103,7 @@ export default function Terms() {
                     You must be of legal age (18 years or older) or meet the age
                     of majority in your jurisdiction, whichever is higher, to
                     open an Account and utilize the Services. By accepting
-                    Services provided by Assistify, you affirm that the purpose
+                    Services provided by Kare ai, you affirm that the purpose
                     is business-related and not intended for personal,
                     household, or familial use.
                   </p>
@@ -111,7 +111,7 @@ export default function Terms() {
                   <p>
                     You acknowledge that the email address you provide upon
                     Account creation, or any subsequent updates, will serve as
-                    the primary mode of communication between you and Assistify
+                    the primary mode of communication between you and Kare ai
                     (“Primary Email Address”). Maintenance of the Primary Email
                     Address is your responsibility, and it must be capable of
                     both sending and receiving messages. Email correspondence
@@ -120,7 +120,7 @@ export default function Terms() {
                   </p>
 
                   <p>
-                    The security of your password lies with you. Assistify shall
+                    The security of your password lies with you. Kare ai shall
                     not be held liable for any losses or damages arising from
                     your failure to maintain the security of your Account and
                     password.
@@ -128,15 +128,15 @@ export default function Terms() {
 
                   <p>
                     Technical assistance related to the Services is exclusively
-                    available to Assistify Users. Queries regarding the Terms of
-                    Service should be directed to Assistify Support.
+                    available to Kare ai Users. Queries regarding the Terms of
+                    Service should be directed to Kare ai Support.
                   </p>
 
                   <p>
                     You agree not to reproduce, duplicate, copy, sell, resell,
                     or exploit any part of the Service, the Services&apos; use,
                     or access without explicit written permission from
-                    Assistify. You also agree not to circumvent, work around, or
+                    Kare ai. You also agree not to circumvent, work around, or
                     bypass technical limitations of the Services, nor to utilize
                     tools to activate disabled features or functionalities, or
                     engage in decompiling, disassembling, or reverse engineering
@@ -155,15 +155,15 @@ export default function Terms() {
                     descriptions and prices), as well as any photos, images,
                     videos, graphics, textual content, audio files, code,
                     information, or other data supplied by you or your
-                    affiliates to Assistify or its affiliates.
+                    affiliates to Kare ai or its affiliates.
                   </p>
 
                   <h3>Company Terms</h3>
                   <p>
-                    To establish a new company through your Assistify account,
+                    To establish a new company through your Kare ai account,
                     you must provide: organization location details, a valid
                     email address, and any other mandatory information.
-                    Assistify retains the right to reject organization
+                    Kare ai retains the right to reject organization
                     applications or terminate existing organizations at our sole
                     discretion, without the need for explanation.
                   </p>
@@ -189,23 +189,23 @@ export default function Terms() {
                   </p>
 
                   <p>
-                    An Assistify company can only be affiliated with a single
-                    Company Owner. A Company Owner may have multiple Assistify
+                    An Kare ai company can only be affiliated with a single
+                    Company Owner. A Company Owner may have multiple Kare ai
                     companies. “Company” refers to the online company (whether
-                    hosted on Assistify&apos;s platform or a third-party
+                    hosted on Kare ai&apos;s platform or a third-party
                     website) or physical retail location(s) linked to the
                     Account.
                   </p>
                 </div>
                 <div className="tab-pane fade" id="pillTwo" role="tabpanel">
-                  <h3>Welcome to Assistify</h3>
+                  <h3>Welcome to Kare ai</h3>
                   <p>
-                    This Assistify Services Agreement (“Agreement”) is a legal
-                    agreement between Assistify Inc. (“Assistify”, “us”, or
+                    This Kare ai Services Agreement (“Agreement”) is a legal
+                    agreement between Kare ai Inc. (“Kare ai”, “us”, or
                     “we”) and the entity or person (“you”, “your”, or “user”)
-                    who registered on the Assistify signup page to utilize our
+                    who registered on the Kare ai signup page to utilize our
                     hiring services, assessment services, and other business
-                    solutions that may be offered by Assistify and its
+                    solutions that may be offered by Kare ai and its
                     affiliated entities (each, a “Service”). This Agreement
                     outlines the terms of service that govern your usage of the
                     Services. If any aspect of this Agreement is unclear to you,
@@ -220,25 +220,25 @@ export default function Terms() {
                   </p>
 
                   <p>
-                    Usage Data: Information on how you use Assistify, like the
+                    Usage Data: Information on how you use Kare ai, like the
                     features you interact with, frequency, duration of
                     interactions, and any errors or crashes.
                   </p>
 
                   <p>
                     Device Information: Details about the device you use to
-                    access Assistify, such as device type, operating system,
+                    access Kare ai, such as device type, operating system,
                     browser, and IP address.
                   </p>
 
                   <h3>Account Terms</h3>
                   <p>
                     In order to access and make use of the Services, you must
-                    complete the registration process for an Assistify account
+                    complete the registration process for an Kare ai account
                     (“Account”). Successful completion of your Account
                     registration mandates the provision of your full legal name,
                     a valid email address, and any other information marked as
-                    mandatory. Assistify reserves the right to decline your
+                    mandatory. Kare ai reserves the right to decline your
                     Account application or terminate an existing Account at our
                     sole discretion, without the obligation to provide a reason.
                   </p>
@@ -247,7 +247,7 @@ export default function Terms() {
                     You must be of legal age (18 years or older) or meet the age
                     of majority in your jurisdiction, whichever is higher, to
                     open an Account and utilize the Services. By accepting
-                    Services provided by Assistify, you affirm that the purpose
+                    Services provided by Kare ai, you affirm that the purpose
                     is business-related and not intended for personal,
                     household, or familial use.
                   </p>
@@ -255,7 +255,7 @@ export default function Terms() {
                   <p>
                     You acknowledge that the email address you provide upon
                     Account creation, or any subsequent updates, will serve as
-                    the primary mode of communication between you and Assistify
+                    the primary mode of communication between you and Kare ai
                     (“Primary Email Address”). Maintenance of the Primary Email
                     Address is your responsibility, and it must be capable of
                     both sending and receiving messages. Email correspondence
@@ -264,7 +264,7 @@ export default function Terms() {
                   </p>
 
                   <p>
-                    The security of your password lies with you. Assistify shall
+                    The security of your password lies with you. Kare ai shall
                     not be held liable for any losses or damages arising from
                     your failure to maintain the security of your Account and
                     password.
@@ -272,15 +272,15 @@ export default function Terms() {
 
                   <p>
                     Technical assistance related to the Services is exclusively
-                    available to Assistify Users. Queries regarding the Terms of
-                    Service should be directed to Assistify Support.
+                    available to Kare ai Users. Queries regarding the Terms of
+                    Service should be directed to Kare ai Support.
                   </p>
 
                   <p>
                     You agree not to reproduce, duplicate, copy, sell, resell,
                     or exploit any part of the Service, the Services&apos; use,
                     or access without explicit written permission from
-                    Assistify. You also agree not to circumvent, work around, or
+                    Kare ai. You also agree not to circumvent, work around, or
                     bypass technical limitations of the Services, nor to utilize
                     tools to activate disabled features or functionalities, or
                     engage in decompiling, disassembling, or reverse engineering
@@ -299,15 +299,15 @@ export default function Terms() {
                     descriptions and prices), as well as any photos, images,
                     videos, graphics, textual content, audio files, code,
                     information, or other data supplied by you or your
-                    affiliates to Assistify or its affiliates.
+                    affiliates to Kare ai or its affiliates.
                   </p>
 
                   <h3>Company Terms</h3>
                   <p>
-                    To establish a new company through your Assistify account,
+                    To establish a new company through your Kare ai account,
                     you must provide: organization location details, a valid
                     email address, and any other mandatory information.
-                    Assistify retains the right to reject organization
+                    Kare ai retains the right to reject organization
                     applications or terminate existing organizations at our sole
                     discretion, without the need for explanation.
                   </p>
@@ -333,23 +333,23 @@ export default function Terms() {
                   </p>
 
                   <p>
-                    An Assistify company can only be affiliated with a single
-                    Company Owner. A Company Owner may have multiple Assistify
+                    An Kare ai company can only be affiliated with a single
+                    Company Owner. A Company Owner may have multiple Kare ai
                     companies. “Company” refers to the online company (whether
-                    hosted on Assistify&apos;s platform or a third-party
+                    hosted on Kare ai&apos;s platform or a third-party
                     website) or physical retail location(s) linked to the
                     Account.
                   </p>
                 </div>
                 <div className="tab-pane fade" id="pillThree" role="tabpanel">
-                  <h3>Welcome to Assistify</h3>
+                  <h3>Welcome to Kare ai</h3>
                   <p>
-                    This Assistify Services Agreement (“Agreement”) is a legal
-                    agreement between Assistify Inc. (“Assistify”, “us”, or
+                    This Kare ai Services Agreement (“Agreement”) is a legal
+                    agreement between Kare ai Inc. (“Kare ai”, “us”, or
                     “we”) and the entity or person (“you”, “your”, or “user”)
-                    who registered on the Assistify signup page to utilize our
+                    who registered on the Kare ai signup page to utilize our
                     hiring services, assessment services, and other business
-                    solutions that may be offered by Assistify and its
+                    solutions that may be offered by Kare ai and its
                     affiliated entities (each, a “Service”). This Agreement
                     outlines the terms of service that govern your usage of the
                     Services. If any aspect of this Agreement is unclear to you,
@@ -364,25 +364,25 @@ export default function Terms() {
                   </p>
 
                   <p>
-                    Usage Data: Information on how you use Assistify, like the
+                    Usage Data: Information on how you use Kare ai, like the
                     features you interact with, frequency, duration of
                     interactions, and any errors or crashes.
                   </p>
 
                   <p>
                     Device Information: Details about the device you use to
-                    access Assistify, such as device type, operating system,
+                    access Kare ai, such as device type, operating system,
                     browser, and IP address.
                   </p>
 
                   <h3>Account Terms</h3>
                   <p>
                     In order to access and make use of the Services, you must
-                    complete the registration process for an Assistify account
+                    complete the registration process for an Kare ai account
                     (“Account”). Successful completion of your Account
                     registration mandates the provision of your full legal name,
                     a valid email address, and any other information marked as
-                    mandatory. Assistify reserves the right to decline your
+                    mandatory. Kare ai reserves the right to decline your
                     Account application or terminate an existing Account at our
                     sole discretion, without the obligation to provide a reason.
                   </p>
@@ -391,7 +391,7 @@ export default function Terms() {
                     You must be of legal age (18 years or older) or meet the age
                     of majority in your jurisdiction, whichever is higher, to
                     open an Account and utilize the Services. By accepting
-                    Services provided by Assistify, you affirm that the purpose
+                    Services provided by Kare ai, you affirm that the purpose
                     is business-related and not intended for personal,
                     household, or familial use.
                   </p>
@@ -399,7 +399,7 @@ export default function Terms() {
                   <p>
                     You acknowledge that the email address you provide upon
                     Account creation, or any subsequent updates, will serve as
-                    the primary mode of communication between you and Assistify
+                    the primary mode of communication between you and Kare ai
                     (“Primary Email Address”). Maintenance of the Primary Email
                     Address is your responsibility, and it must be capable of
                     both sending and receiving messages. Email correspondence
@@ -408,7 +408,7 @@ export default function Terms() {
                   </p>
 
                   <p>
-                    The security of your password lies with you. Assistify shall
+                    The security of your password lies with you. Kare ai shall
                     not be held liable for any losses or damages arising from
                     your failure to maintain the security of your Account and
                     password.
@@ -416,15 +416,15 @@ export default function Terms() {
 
                   <p>
                     Technical assistance related to the Services is exclusively
-                    available to Assistify Users. Queries regarding the Terms of
-                    Service should be directed to Assistify Support.
+                    available to Kare ai Users. Queries regarding the Terms of
+                    Service should be directed to Kare ai Support.
                   </p>
 
                   <p>
                     You agree not to reproduce, duplicate, copy, sell, resell,
                     or exploit any part of the Service, the Services&apos; use,
                     or access without explicit written permission from
-                    Assistify. You also agree not to circumvent, work around, or
+                    Kare ai. You also agree not to circumvent, work around, or
                     bypass technical limitations of the Services, nor to utilize
                     tools to activate disabled features or functionalities, or
                     engage in decompiling, disassembling, or reverse engineering
@@ -443,15 +443,15 @@ export default function Terms() {
                     descriptions and prices), as well as any photos, images,
                     videos, graphics, textual content, audio files, code,
                     information, or other data supplied by you or your
-                    affiliates to Assistify or its affiliates.
+                    affiliates to Kare ai or its affiliates.
                   </p>
 
                   <h3>Company Terms</h3>
                   <p>
-                    To establish a new company through your Assistify account,
+                    To establish a new company through your Kare ai account,
                     you must provide: organization location details, a valid
                     email address, and any other mandatory information.
-                    Assistify retains the right to reject organization
+                    Kare ai retains the right to reject organization
                     applications or terminate existing organizations at our sole
                     discretion, without the need for explanation.
                   </p>
@@ -477,23 +477,23 @@ export default function Terms() {
                   </p>
 
                   <p>
-                    An Assistify company can only be affiliated with a single
-                    Company Owner. A Company Owner may have multiple Assistify
+                    An Kare ai company can only be affiliated with a single
+                    Company Owner. A Company Owner may have multiple Kare ai
                     companies. “Company” refers to the online company (whether
-                    hosted on Assistify&apos;s platform or a third-party
+                    hosted on Kare ai&apos;s platform or a third-party
                     website) or physical retail location(s) linked to the
                     Account.
                   </p>
                 </div>
                 <div className="tab-pane fade" id="pillFour" role="tabpanel">
-                  <h3>Welcome to Assistify</h3>
+                  <h3>Welcome to Kare ai</h3>
                   <p>
-                    This Assistify Services Agreement (“Agreement”) is a legal
-                    agreement between Assistify Inc. (“Assistify”, “us”, or
+                    This Kare ai Services Agreement (“Agreement”) is a legal
+                    agreement between Kare ai Inc. (“Kare ai”, “us”, or
                     “we”) and the entity or person (“you”, “your”, or “user”)
-                    who registered on the Assistify signup page to utilize our
+                    who registered on the Kare ai signup page to utilize our
                     hiring services, assessment services, and other business
-                    solutions that may be offered by Assistify and its
+                    solutions that may be offered by Kare ai and its
                     affiliated entities (each, a “Service”). This Agreement
                     outlines the terms of service that govern your usage of the
                     Services. If any aspect of this Agreement is unclear to you,
@@ -508,25 +508,25 @@ export default function Terms() {
                   </p>
 
                   <p>
-                    Usage Data: Information on how you use Assistify, like the
+                    Usage Data: Information on how you use Kare ai, like the
                     features you interact with, frequency, duration of
                     interactions, and any errors or crashes.
                   </p>
 
                   <p>
                     Device Information: Details about the device you use to
-                    access Assistify, such as device type, operating system,
+                    access Kare ai, such as device type, operating system,
                     browser, and IP address.
                   </p>
 
                   <h3>Account Terms</h3>
                   <p>
                     In order to access and make use of the Services, you must
-                    complete the registration process for an Assistify account
+                    complete the registration process for an Kare ai account
                     (“Account”). Successful completion of your Account
                     registration mandates the provision of your full legal name,
                     a valid email address, and any other information marked as
-                    mandatory. Assistify reserves the right to decline your
+                    mandatory. Kare ai reserves the right to decline your
                     Account application or terminate an existing Account at our
                     sole discretion, without the obligation to provide a reason.
                   </p>
@@ -535,7 +535,7 @@ export default function Terms() {
                     You must be of legal age (18 years or older) or meet the age
                     of majority in your jurisdiction, whichever is higher, to
                     open an Account and utilize the Services. By accepting
-                    Services provided by Assistify, you affirm that the purpose
+                    Services provided by Kare ai, you affirm that the purpose
                     is business-related and not intended for personal,
                     household, or familial use.
                   </p>
@@ -543,7 +543,7 @@ export default function Terms() {
                   <p>
                     You acknowledge that the email address you provide upon
                     Account creation, or any subsequent updates, will serve as
-                    the primary mode of communication between you and Assistify
+                    the primary mode of communication between you and Kare ai
                     (“Primary Email Address”). Maintenance of the Primary Email
                     Address is your responsibility, and it must be capable of
                     both sending and receiving messages. Email correspondence
@@ -552,7 +552,7 @@ export default function Terms() {
                   </p>
 
                   <p>
-                    The security of your password lies with you. Assistify shall
+                    The security of your password lies with you. Kare ai shall
                     not be held liable for any losses or damages arising from
                     your failure to maintain the security of your Account and
                     password.
@@ -560,15 +560,15 @@ export default function Terms() {
 
                   <p>
                     Technical assistance related to the Services is exclusively
-                    available to Assistify Users. Queries regarding the Terms of
-                    Service should be directed to Assistify Support.
+                    available to Kare ai Users. Queries regarding the Terms of
+                    Service should be directed to Kare ai Support.
                   </p>
 
                   <p>
                     You agree not to reproduce, duplicate, copy, sell, resell,
                     or exploit any part of the Service, the Services&apos; use,
                     or access without explicit written permission from
-                    Assistify. You also agree not to circumvent, work around, or
+                    Kare ai. You also agree not to circumvent, work around, or
                     bypass technical limitations of the Services, nor to utilize
                     tools to activate disabled features or functionalities, or
                     engage in decompiling, disassembling, or reverse engineering
@@ -587,15 +587,15 @@ export default function Terms() {
                     descriptions and prices), as well as any photos, images,
                     videos, graphics, textual content, audio files, code,
                     information, or other data supplied by you or your
-                    affiliates to Assistify or its affiliates.
+                    affiliates to Kare ai or its affiliates.
                   </p>
 
                   <h3>Company Terms</h3>
                   <p>
-                    To establish a new company through your Assistify account,
+                    To establish a new company through your Kare ai account,
                     you must provide: organization location details, a valid
                     email address, and any other mandatory information.
-                    Assistify retains the right to reject organization
+                    Kare ai retains the right to reject organization
                     applications or terminate existing organizations at our sole
                     discretion, without the need for explanation.
                   </p>
@@ -621,10 +621,10 @@ export default function Terms() {
                   </p>
 
                   <p>
-                    An Assistify company can only be affiliated with a single
-                    Company Owner. A Company Owner may have multiple Assistify
+                    An Kare ai company can only be affiliated with a single
+                    Company Owner. A Company Owner may have multiple Kare ai
                     companies. “Company” refers to the online company (whether
-                    hosted on Assistify&apos;s platform or a third-party
+                    hosted on Kare ai&apos;s platform or a third-party
                     website) or physical retail location(s) linked to the
                     Account.
                   </p>

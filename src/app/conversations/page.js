@@ -151,14 +151,14 @@ export default function Conversations() {
                         </div>
                         <div class="solution-chat-message-item">
                           <Image
-                            src="/img/user-assistify.svg"
+                            src="/img/user-Kare ai.svg"
                             alt="user"
                             width={32}
                             height={32}
                           />
                           <div class="solution-chat-message-item-content">
                             <h3>
-                              Assistify AI <span>8:42 PM</span>
+                              Kare ai AI <span>8:42 PM</span>
                             </h3>
                             <p>
                               The current total inventory value for the Salad

@@ -11,7 +11,7 @@ export default function Integrations() {
         title="Effortless"
         subtitle="Integrations"
         content="Easily connect tools, databases, or import files with just a few
-              clicks. Assistify seamlessly integrates with various platforms and
+              clicks. Kare ai seamlessly integrates with various platforms and
               file formats, ensuring a smooth experience."
       />
       <div className="feature-area mt-192">
