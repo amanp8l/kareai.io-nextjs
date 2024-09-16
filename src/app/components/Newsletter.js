@@ -14,8 +14,8 @@ export default function Newsletter() {
               Embark on the journey of creating your very own AI-powered
               agent effortlessly.
             </p>
-            <Link href="https://dashboard.kareai.io/login" className="btn btn-primary">
-              Get Started
+            <Link href="https://forms.gle/8NEaQmgnp82dZk1v7" className="btn btn-primary">
+              Book a Demo
             </Link>
           </div>
         </div>
