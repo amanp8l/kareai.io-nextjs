@@ -49,8 +49,8 @@ export default function Header() {
               </nav>
             </div>
             <div className="col-md-2 text-end">
-              <Link href="https://dashboard.kareai.io/login" className="btn btn-secondary">
-                Get Started
+              <Link href="https://forms.gle/8NEaQmgnp82dZk1v7" className="btn btn-secondary">
+                Book a Demo
               </Link>
             </div>
           </div>
